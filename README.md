@@ -39,7 +39,7 @@ sdk install java 21.0.2-open
 docker run -p 8080:8080 random:0.0.1-SNAPSHOT
 ```
 
-## Testing
+### Testing
 ```
 curl http://localhost:8080/random
 ```
